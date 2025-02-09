@@ -6,3 +6,5 @@ edited
 
 in bash i have used stash so now i am going to update this and save this to central repo after that i will use git stash apply to get the previous data back and we can keep working in it
 >>>>>>> 1baecc6 (this is changed data moving to local)
+
+fghjkl
