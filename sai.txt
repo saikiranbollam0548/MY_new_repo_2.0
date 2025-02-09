@@ -1,4 +1,5 @@
 This is new file
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 edited 
 =======
@@ -8,3 +9,8 @@ in bash i have used stash so now i am going to update this and save this to cent
 >>>>>>> 1baecc6 (this is changed data moving to local)
 
 fghjkl
+=======
+
+Now i added some data for the use of stash this line in temporarily stored
+
+>>>>>>> Stashed changes
