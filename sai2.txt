@@ -1,6 +1,10 @@
 this is data of second file 
 
+<<<<<<< Updated upstream
 
 previous line is stashed now this line is added newly and i am going to add,commit, and push this 
 
 after this again i am going "git stash apply" getting the data back and same add,commit and push
+=======
+--> Now some changes are goning to made and this line will be unavailable temporarily 
+>>>>>>> Stashed changes
