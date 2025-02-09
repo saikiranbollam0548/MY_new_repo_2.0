@@ -1,1 +1,6 @@
 this is data of second file 
+
+
+previous line is stashed now this line is added newly and i am going to add,commit, and push this 
+
+after this again i am going "git stash apply" getting the data back and same add,commit and push
